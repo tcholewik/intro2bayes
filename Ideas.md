@@ -1,0 +1,4 @@
+- Interactive slide with cookie problem
+- Provide a couple of problems form Think bayes for group exercises
+- Provide interactive examples of prbability problems
+- look up more data on Bayesian Neural Nets
