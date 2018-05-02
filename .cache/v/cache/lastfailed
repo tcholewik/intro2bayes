@@ -1,0 +1,5 @@
+{
+  "bayes/test_calculator.py": true, 
+  "bayes/test_cookie.py": true, 
+  "src/test_calculator.py::TestDummy::test_silly": true
+}

@@ -1,4 +1,8 @@
 - Interactive slide with cookie problem
 - Provide a couple of problems form Think bayes for group exercises
-- Provide interactive examples of prbability problems
+- Expand Bayes calculator to work with continuos likelyhoods
+  - Provide interactive change detection problem
+- Create vendiagrams describing basic probability laws
 - look up more data on Bayesian Neural Nets
+- PyMC3 Intro with Tank problem as an example
+- Add references to Think Bayes, Bayesian Methods for hackers, Variance Explained
